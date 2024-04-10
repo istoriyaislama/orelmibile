@@ -10,7 +10,7 @@ body{
     border-radius: 20px;
     background-image: url("../img/orelimage.jpg");
     box-shadow: 7px 7px 7px #4f4f4f;
-    margin-top: -20px;
+    margin-top: 10px;
 }
 .telefon .camera{
     border: 3px solid black;
