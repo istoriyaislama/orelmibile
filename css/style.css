@@ -11,6 +11,14 @@ body{
     background-image: url("../img/orelimage.jpg");
     box-shadow: 7px 7px 7px #4f4f4f;
 }
+.telefonb{
+    border: 10px solid black;
+    width: 299px;
+    height: 499px;
+    border-radius: 20px;
+    background-image: url("../img/orelimage.jpg");
+    box-shadow: 7px 7px 7px #4f4f4f;
+}
 .telefon .camera{
     border: 3px solid black;
     border-radius: 20px;
